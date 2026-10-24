@@ -1,0 +1,9 @@
+1 0 rest -71.1 n 4 SMC 6.17 ICC 1.54 ratio 0.249
+1 -10 rest -67.4 n 3 SMC 5.94 ICC 1.88 ratio 0.317
+1 -20 rest -62.3 n 3 SMC 5.83 ICC 2.82 ratio 0.483
+1.5 0 rest -70.9 n 3 SMC 4.37 ICC 1.47 ratio 0.336
+1.5 -10 rest -67.2 n 4 SMC 5.02 ICC 2.09 ratio 0.416
+1.5 -20 rest -61.8 n 3 SMC 5.94 ICC 3.38 ratio 0.569
+2 0 rest -70.3 n 3 SMC 4.54 ICC 1.84 ratio 0.405
+2 -10 rest -67.3 n 3 SMC 5.96 ICC 2.88 ratio 0.482
+2 -20 rest -63.3 n 3 SMC 6.80 ICC 4.32 ratio 0.635

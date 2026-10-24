@@ -1,0 +1,4 @@
+FLC model | SMC L1 at g_c 0.5/1/1.5/2/3 | g_c* 21.7/24.4/27.1 | FLC rest in tissue (g_c 1.5) | IJP n, SMC, ICC, ratio
+modified PDGFa FLC | 12.6 19.6 24.3 27.0 31.8 | 1.20 / 1.52 / 2.02 | -48.2 | 3, 4.37, 1.47, 0.336
+minimal mean-field FLC | 13.4 20.6 25.3 28.6 33.1 | 1.10 / 1.39 / 1.76 | -65.0 | 4, 3.06, 1.01, 0.331
+wrote paper_R1/fig/supp_flc.png

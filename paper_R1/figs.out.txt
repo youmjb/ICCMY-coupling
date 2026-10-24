@@ -1,0 +1,109 @@
+Fig1D rabbit g_c 1: ICC-MY RMP (mV) -2.1, ICC-MY amplitude (mV) -1.0, ICC-MY rate (min$^{-1}$) +7.0, ICC-MY half-width (sec) -5.8, ICC-MY dV/dt max (V sec$^{-1}$) -2.9, CSMC RMP (mV) -0.8, CSMC amplitude (mV) -1.8, CSMC half-width (sec) -4.0, CSMC dV/dt max (V sec$^{-1}$) -1.6, CSMC fIJP (mV) -1.9, FLC RMP (mV) +0.5, FLC slow wave (mV) +0.0, FLC apamin depol. (mV) -0.8
+Fig1D rabbit g_c 1.5: ICC-MY RMP (mV) -2.1, ICC-MY amplitude (mV) -1.2, ICC-MY rate (min$^{-1}$) +7.1, ICC-MY half-width (sec) -5.8, ICC-MY dV/dt max (V sec$^{-1}$) -2.9, CSMC RMP (mV) -1.1, CSMC amplitude (mV) -0.1, CSMC half-width (sec) -4.1, CSMC dV/dt max (V sec$^{-1}$) -1.2, CSMC fIJP (mV) -3.1, FLC RMP (mV) -0.1, FLC slow wave (mV) +1.0, FLC apamin depol. (mV) +1.5
+Fig1D rabbit g_c 2: ICC-MY RMP (mV) -2.0, ICC-MY amplitude (mV) -1.4, ICC-MY rate (min$^{-1}$) +7.2, ICC-MY half-width (sec) -5.8, ICC-MY dV/dt max (V sec$^{-1}$) -2.9, CSMC RMP (mV) -1.2, CSMC amplitude (mV) +0.9, CSMC half-width (sec) -4.1, CSMC dV/dt max (V sec$^{-1}$) -0.9, CSMC fIJP (mV) -3.0, FLC RMP (mV) +0.1, FLC slow wave (mV) -0.1, FLC apamin depol. (mV) +0.7
+Fig1D mouse g_c 2: ICC-MY RMP (mV) -0.2, ICC-MY amplitude (mV) -1.6, ICC-MY rate (min$^{-1}$) -3.3, ICC-MY half-width (sec) -2.2, ICC-MY dV/dt max (V sec$^{-1}$) -2.9, CSMC RMP (mV) +0.9, CSMC amplitude (mV) -1.6, CSMC half-width (sec) -2.1, CSMC dV/dt max (V sec$^{-1}$) -2.3
+wrote paper_R1/fig/fig1.png, .pdf
+Fig3B mean R_in 260 MOhm: cap 0.25 nS (g_own 3.6); 0.75-1.55 (g_own 3.1-2.3)
+Fig3B mean − SEM R_in 222 MOhm: cap 0.90 nS (g_own 3.6); 1.40-2.20 (g_own 3.1-2.3)
+Fig3B 95 % CI lower limit R_in 177 MOhm: cap 2.04 nS (g_own 3.6); 2.54-3.34 (g_own 3.1-2.3)
+Fig3B mean − SD R_in 123 MOhm: cap 4.53 nS (g_own 3.6); 5.03-5.83 (g_own 3.1-2.3)
+Fig3C m 0.3 g_c 0: R_in 267 MOhm (n 4), analytic 278
+Fig3C m 0.3 g_c 1: R_in 268 MOhm (n 6), analytic 237
+Fig3C m 0.3 g_c 1.5: R_in 253 MOhm (n 5), analytic 228
+Fig3C m 0.3 g_c 2: R_in 252 MOhm (n 5), analytic 223
+Fig3C m 0.3 g_c 5: R_in 251 MOhm (n 5), analytic 208
+Fig3C m 0.3 g_c 20: R_in 250 MOhm (n 5), analytic 196
+Fig3C m 1 g_c 1: R_in 256 MOhm (n 5), analytic 225
+Fig3C m 1 g_c 2: R_in 244 MOhm (n 5), analytic 198
+Fig3C m 1 g_c 5: R_in 215 MOhm (n 5), analytic 162
+Fig3D coupled g_own 2.19-3.26 nS; isolated 3.74 nS
+wrote paper_R1/fig/fig3.png, .pdf
+Fig4B ICC-MY >= 90%: largest with window 0.98-0.98 nS, smallest without 1.61-1.61 nS (9 rate/muscle criteria)
+Fig4B ICC-MY >= 80%: largest with window 1.61-3.10 nS, smallest without 2.94-5.37 nS (9 rate/muscle criteria)
+Fig4B ICC-MY >= 70%: largest with window 2.94-3.10 nS, smallest without 3.10-5.37 nS (9 rate/muscle criteria)
+Fig4C rabbit passive divider (G0 1.61, g_c 1.17): half amplitude at 63 % lost
+Fig4C rabbit g_c 1.17: lost 0 %, G_load 1.61 nS, ICC-MY 49.8 mV, muscle 21.1 mV, rate 18.0/18.0
+Fig4C rabbit g_c 1.17: lost 20 %, G_load 2.01 nS, ICC-MY 49.3 mV, muscle 18.2 mV, rate 18.1/18.1
+Fig4C rabbit g_c 1.17: lost 33 %, G_load 2.41 nS, ICC-MY 48.8 mV, muscle 15.7 mV, rate 18.1/18.1
+Fig4C rabbit g_c 1.17: lost 50 %, G_load 3.22 nS, ICC-MY 48.2 mV, muscle 12.7 mV, rate 18.2/18.1
+Fig4C rabbit g_c 1.17: lost 60 %, G_load 4.02 nS, ICC-MY 47.9 mV, muscle 11.1 mV, rate 18.2/18.2
+Fig4C rabbit g_c 1.17: lost 70 %, G_load 5.37 nS, ICC-MY 47.5 mV, muscle 8.3 mV, rate 18.2/18.2
+Fig4C rabbit g_c 1.17: lost 80 %, G_load 8.05 nS, ICC-MY 47.0 mV, muscle 5.9 mV, rate 18.3/18.2
+Fig4C rabbit g_c 1.17: lost 90 %, G_load 16.10 nS, ICC-MY 46.5 mV, muscle 3.1 mV, rate 18.4/18.2
+Fig4C mouse passive divider (G0 1.61, g_c 2.33): half amplitude at 71 % lost
+Fig4C mouse g_c 2.33: lost 0 %, G_load 1.61 nS, ICC-MY 47.6 mV, muscle 28.6 mV, rate 18.2/18.1
+Fig4C mouse g_c 2.33: lost 20 %, G_load 2.01 nS, ICC-MY 46.6 mV, muscle 25.3 mV, rate 18.3/18.3
+Fig4C mouse g_c 2.33: lost 33 %, G_load 2.41 nS, ICC-MY 45.8 mV, muscle 22.6 mV, rate 18.3/18.3
+Fig4C mouse g_c 2.33: lost 50 %, G_load 3.22 nS, ICC-MY 44.6 mV, muscle 18.9 mV, rate 18.4/18.4
+Fig4C mouse g_c 2.33: lost 60 %, G_load 4.02 nS, ICC-MY 43.8 mV, muscle 16.5 mV, rate 18.5/18.5
+Fig4C mouse g_c 2.33: lost 70 %, G_load 5.37 nS, ICC-MY 42.7 mV, muscle 13.0 mV, rate 18.6/18.6
+Fig4C mouse g_c 2.33: lost 80 %, G_load 8.05 nS, ICC-MY 41.5 mV, muscle 9.5 mV, rate 18.7/18.6
+Fig4C mouse g_c 2.33: lost 90 %, G_load 16.10 nS, ICC-MY 40.2 mV, muscle 5.3 mV, rate 18.8/18.9
+wrote paper_R1/fig/fig4.png, .pdf
+Fig5A iccInj 0 g_c 1: rest -71.1 mV, fraction 0.249 (n 4)
+Fig5A iccInj 0 g_c 1.5: rest -70.9 mV, fraction 0.335 (n 4)
+Fig5A iccInj 0 g_c 2: rest -70.3 mV, fraction 0.405 (n 3)
+Fig5A iccInj -10 g_c 1: rest -67.4 mV, fraction 0.317 (n 3)
+Fig5A iccInj -10 g_c 1.5: rest -67.2 mV, fraction 0.416 (n 4)
+Fig5A iccInj -10 g_c 2: rest -67.3 mV, fraction 0.482 (n 3)
+Fig5A iccInj -20 g_c 1: rest -62.3 mV, fraction 0.483 (n 3)
+Fig5A iccInj -20 g_c 1.5: rest -61.8 mV, fraction 0.569 (n 3)
+Fig5A iccInj -20 g_c 2: rest -63.3 mV, fraction 0.635 (n 3)
+Fig5B g_own 3.74: fraction 0.336 (n 3)
+Fig5B g_own 3.14: fraction 0.398 (n 3)
+Fig5B g_own 5.54: fraction 0.233 (n 4)
+Fig5B g_own 7.34: fraction 0.182 (n 4)
+Fig5C one column: fraction 0.1 nS 0.273, 0.6 nS 0.210, 3.2 nS 0.101, 17.8 nS 0.031, 100.0 nS 0.008
+Fig5C 3 × 3 columns: fraction 0.1 nS 0.294, 0.6 nS 0.286, 3.2 nS 0.224, 17.8 nS 0.110, 100.0 nS 0.037
+Fig5C 7 × 7 columns: fraction 0.1 nS 0.294, 0.6 nS 0.294, 3.2 nS 0.287, 17.8 nS 0.220, 100.0 nS 0.106
+Fig5C widespread: fraction 0.1 nS 0.294, 0.6 nS 0.294, 3.2 nS 0.294, 17.8 nS 0.294, 100.0 nS 0.294
+wrote paper_R1/fig/fig5.png, .pdf
+Fig6A base: g_c* 1.52 (1.20-2.02)
+Fig6A gSS15: g_c* 1.03 (0.82-1.30)
+Fig6A gSS60: g_c* 2.54 (1.92-3.32)
+Fig6A L15: g_c* 1.50 (1.20-2.01)
+Fig6A L45: g_c* 1.56 (1.25-1.94)
+Fig6A m0.15: g_c* 0.67 (0.54-0.83)
+Fig6A m0.45: g_c* 2.87 (2.05-3.81)
+Fig6A gK0run0.2: g_c* 1.18 (0.95-1.46)
+Fig6A gK0run0.6: g_c* 1.84 (1.41-2.40)
+Fig6A fP0.05: g_c* 1.45 (1.15-1.86)
+Fig6A fP0.15: g_c* 1.63 (1.25-2.17)
+Fig6A gSP1.5: g_c* 1.48 (1.15-1.87)
+Fig6A gSP4.5: g_c* 1.68 (1.28-2.18)
+Fig6A iccGL-0.6: g_c* 1.30 (1.06-1.61)
+Fig6A iccGL1.8: g_c* 3.03 (2.11-4.35)
+Fig6A iccGL3.6: g_c* >5.00 (3.93->5.00)
+Fig6A seed2: g_c* 1.61 (1.26-2.00)
+Fig6A seed3: g_c* 1.64 (1.30-2.05)
+Fig6B base: fraction 0.336 (n 3)
+Fig6B gSS15: fraction 0.333 (n 4)
+Fig6B gSS60: fraction 0.336 (n 3)
+Fig6B L15: fraction 0.332 (n 3)
+Fig6B L45: fraction 0.332 (n 3)
+Fig6B m0.15: fraction 0.326 (n 3)
+Fig6B m0.45: fraction 0.338 (n 3)
+Fig6B gK0run0.2: fraction 0.355 (n 4)
+Fig6B gK0run0.6: fraction 0.324 (n 3)
+Fig6B fP0.05: fraction 0.333 (n 4)
+Fig6B fP0.15: fraction 0.339 (n 3)
+Fig6B gSP1.5: fraction 0.337 (n 3)
+Fig6B gSP4.5: fraction 0.333 (n 3)
+Fig6B iccGL-0.6: fraction 0.398 (n 3)
+Fig6B iccGL1.8: fraction 0.233 (n 4)
+Fig6B iccGL3.6: fraction 0.182 (n 4)
+Fig6B seed2: fraction 0.332 (n 3)
+Fig6B seed3: fraction 0.337 (n 3)
+wrote paper_R1/fig/fig6.png, .pdf
+FigS2B peak I_CaL -35.5 pA/pF at 15 mV; K+ at +40 mV 7.1 pA/pF
+wrote paper_R1/fig/figS1.png, .pdf
+FigS3C modified PDGFa FLC: g_c* 1.52 (1.20-2.02) nS
+FigS3C minimal mean-field FLC: g_c* 1.39 (1.10-1.76) nS
+FigS3D modified PDGFa FLC: fraction 0.336 (n 3), muscle IJP 4.37 mV
+FigS3D minimal mean-field FLC: fraction 0.331 (n 4), muscle IJP 3.06 mV
+wrote paper_R1/fig/figS2.png, .pdf
+FigS4A L30_rabbit: L1 21.1, L5 11.2, L10 5.0, L20 1.3, L30 0.8
+FigS4A L30_mouse: L1 28.6, L5 14.8, L10 6.4, L20 1.0, L30 0.3
+FigS4A L7_rabbit: L1 16.4, L5 11.1, L7 10.2
+FigS4A L7_mouse: L1 20.2, L5 13.8, L7 12.8
+wrote paper_R1/fig/figS4.png, .pdf

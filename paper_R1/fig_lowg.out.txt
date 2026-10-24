@@ -1,0 +1,13 @@
+A f 1: transfer 0.40, ICC-MY x1.01, muscle x0.70 (pinacidil dM range -14.5 to -5.5)
+A f 0.3: transfer 0.77, ICC-MY x1.13, muscle x0.86 (pinacidil dM range -16.8 to -6.3)
+A f 0.2: transfer 0.87, ICC-MY x1.16, muscle x0.92 (pinacidil dM range -17.6 to -6.9)
+A f 0.1: transfer 0.97, ICC-MY x1.20, muscle x0.94 (pinacidil dM range -18.4 to -7.0)
+A f 0.05: transfer 1.03, ICC-MY x1.24, muscle x1.04 (pinacidil dM range -20.2 to -7.9)
+B f 1: ICC rest -70.5, amp 48.7, muscle rest -66.3, amp 25.3, rate 18.0
+B f 0.3: ICC rest -65.1, amp 42.8, muscle rest -64.1, amp 22.4, rate 16.8
+B f 0.2: ICC rest -63.3, amp 40.9, muscle rest -63.4, amp 21.3, rate 16.4
+B f 0.1: ICC rest -61.5, amp 38.3, muscle rest -62.7, amp 20.3, rate 15.8
+B f 0.05: ICC rest -59.3, amp 35.7, muscle rest -61.0, amp 18.5, rate 15.7
+C g_own 2.91: R_in alone 267 MOhm; g_II for 260 MOhm 0.10 nS
+C g_own 0.72: R_in alone 643 MOhm; g_II for 260 MOhm 0.71 nS
+C g_own 0.13: R_in alone 1035 MOhm; g_II for 260 MOhm 0.99 nS

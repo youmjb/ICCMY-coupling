@@ -1,0 +1,20 @@
+isolated cell: scale | rest (mV) amp (mV) rate (min-1) | own conductance (nS), R_in (MOhm), tau (ms), per pF (nS/pF)
+  pub rest x1:  -72.7  56.3  17.3 | 3.80 nS, 263 MOhm, 6.6 ms, 0.152 nS/pF
+  pub K1 x0.5: rest -20.4 (no stable rest)
+  pub K1 x0.3: rest -15.9 (no stable rest)
+  pub K1 x0.2: rest -14.1 (no stable rest)
+  pub K1 x0.1: rest -12.5 (no stable rest)
+  pub rest x0.3:  -69.0  52.9  16.4 | 1.11 nS, 899 MOhm, 22.5 ms, 0.045 nS/pF
+  var rest x1:  -72.6  60.3  17.9 | 2.91 nS, 343 MOhm, 6.2 ms, 0.162 nS/pF
+  var K1 x0.5: rest -20.2 (no stable rest)
+  var K1 x0.3: rest -15.9 (no stable rest)
+  var K1 x0.2: rest -14.0 (no stable rest)
+  var K1 x0.1: rest -12.4 (no stable rest)
+  var rest x0.3:  -69.0  54.9  15.8 | 0.90 nS, 1107 MOhm, 19.9 ms, 0.050 nS/pF
+Goto 2004: 25.2 pF, 760 MOhm (tau 19 ms, 0.052 nS/pF), rest -72.5 mV
+
+coupled (model D base, g_c 1.25, seed 1): pinacidil interpolated to -10.3 mV
+  K1 x0.5: ICC rest -57.8 amp 36.5 | muscle rest -65.5 amp 17.5 | ratio 0.48 | at -10.3 mV: T 0.75 ICCx1.15 Mx0.60
+  K1 x0.3: ICC rest -47.4 amp 27.7 | muscle rest -61.1 amp 12.6 | ratio 0.45 | dM range -16.6 to -12.0
+  K1 x0.2: ICC rest -45.1 amp 24.8 | muscle rest -60.9 amp 10.9 | ratio 0.44 | dM range -16.3 to -11.4
+model D (all resting x0.3) at g_c 1.19: T 0.55 ICCx1.06 Mx0.40

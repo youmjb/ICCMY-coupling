@@ -1,0 +1,91 @@
+cal g_c 1: ctrl CSMC rest -65.5 ICC rest -71.1 | ICC 51.0 CSMC 19.8 ratio 0.39
+     pin1   dCSMC  -8.9 dICC  -2.2 (transfer 0.25) | ICC x1.02 CSMC x0.76 | ratio 0.29
+     pin2   dCSMC -11.6 dICC  -2.9 (transfer 0.25) | ICC x1.02 CSMC x0.63 | ratio 0.24
+     pin4   dCSMC -14.0 dICC  -3.4 (transfer 0.25) | ICC x1.02 CSMC x0.49 | ratio 0.18
+     pin8   dCSMC -15.7 dICC  -3.8 (transfer 0.24) | ICC x1.02 CSMC x0.36 | ratio 0.14
+     pin16  dCSMC -16.8 dICC  -4.1 (transfer 0.24) | ICC x1.02 CSMC x0.25 | ratio 0.09
+cal g_c 2: ctrl CSMC rest -66.5 ICC rest -70.4 | ICC 48.8 CSMC 28.0 ratio 0.57
+     pin1   dCSMC  -7.8 dICC  -3.1 (transfer 0.41) | ICC x1.01 CSMC x0.79 | ratio 0.44
+     pin2   dCSMC -10.1 dICC  -4.0 (transfer 0.39) | ICC x1.01 CSMC x0.68 | ratio 0.38
+     pin4   dCSMC -12.4 dICC  -4.9 (transfer 0.40) | ICC x1.00 CSMC x0.55 | ratio 0.31
+     pin8   dCSMC -14.1 dICC  -5.5 (transfer 0.39) | ICC x0.99 CSMC x0.41 | ratio 0.24
+     pin16  dCSMC -15.4 dICC  -6.0 (transfer 0.39) | ICC x0.97 CSMC x0.29 | ratio 0.17
+cal g_c 3: ctrl CSMC rest -67.0 ICC rest -70.0 | ICC 47.6 CSMC 32.2 ratio 0.68
+     pin1   dCSMC  -7.0 dICC  -3.7 (transfer 0.52) | ICC x1.00 CSMC x0.81 | ratio 0.54
+     pin2   dCSMC  -9.5 dICC  -4.9 (transfer 0.52) | ICC x0.99 CSMC x0.71 | ratio 0.48
+     pin4   dCSMC -11.6 dICC  -5.8 (transfer 0.50) | ICC x0.97 CSMC x0.58 | ratio 0.40
+     pin8   dCSMC -13.3 dICC  -6.6 (transfer 0.49) | ICC x0.95 CSMC x0.45 | ratio 0.32
+     pin16  dCSMC -14.6 dICC  -7.2 (transfer 0.49) | ICC x0.92 CSMC x0.32 | ratio 0.24
+cal g_c 4: ctrl CSMC rest -67.3 ICC rest -69.9 | ICC 47.7 CSMC 36.1 ratio 0.76
+     pin1   dCSMC  -6.6 dICC  -3.9 (transfer 0.59) | ICC x0.98 CSMC x0.79 | ratio 0.61
+     pin2   dCSMC  -9.0 dICC  -5.1 (transfer 0.56) | ICC x0.96 CSMC x0.70 | ratio 0.55
+     pin4   dCSMC -11.0 dICC  -6.2 (transfer 0.56) | ICC x0.93 CSMC x0.58 | ratio 0.47
+     pin8   dCSMC -12.8 dICC  -7.1 (transfer 0.55) | ICC x0.89 CSMC x0.46 | ratio 0.39
+     pin16  dCSMC -14.2 dICC  -7.8 (transfer 0.55) | ICC x0.85 CSMC x0.33 | ratio 0.29
+cal g_c 6: ctrl CSMC rest -67.3 ICC rest -70.1 | ICC 47.5 CSMC 40.6 ratio 0.86
+     pin1   dCSMC  -6.4 dICC  -3.7 (transfer 0.58) | ICC x0.96 CSMC x0.79 | ratio 0.71
+     pin2   dCSMC  -8.7 dICC  -5.1 (transfer 0.58) | ICC x0.93 CSMC x0.70 | ratio 0.65
+     pin4   dCSMC -10.7 dICC  -6.3 (transfer 0.59) | ICC x0.88 CSMC x0.60 | ratio 0.58
+     pin8   dCSMC -12.4 dICC  -7.4 (transfer 0.60) | ICC x0.83 CSMC x0.47 | ratio 0.49
+     pin16  dCSMC -13.8 dICC  -8.2 (transfer 0.60) | ICC x0.76 CSMC x0.34 | ratio 0.38
+thin300 g_c 1: ctrl CSMC rest -65.4 ICC rest -71.1 | ICC 50.8 CSMC 19.4 ratio 0.38
+     pin1   dCSMC  -9.1 dICC  -2.2 (transfer 0.24) | ICC x1.02 CSMC x0.59 | ratio 0.22
+     pin2   dCSMC -12.1 dICC  -2.8 (transfer 0.24) | ICC x1.02 CSMC x0.42 | ratio 0.16
+     pin4   dCSMC -14.6 dICC  -3.5 (transfer 0.24) | ICC x1.02 CSMC x0.29 | ratio 0.11
+     pin8   dCSMC -16.3 dICC  -3.9 (transfer 0.24) | ICC x1.02 CSMC x0.18 | ratio 0.07
+     pin16  dCSMC -17.3 dICC  -4.1 (transfer 0.24) | ICC x1.02 CSMC x0.12 | ratio 0.04
+thin300 g_c 2: ctrl CSMC rest -65.6 ICC rest -70.8 | ICC 54.0 CSMC 56.9 ratio 1.05
+     pin1   dCSMC  -8.8 dICC  -2.9 (transfer 0.33) | ICC x0.89 CSMC x0.31 | ratio 0.36
+     pin2   dCSMC -11.5 dICC  -3.9 (transfer 0.34) | ICC x0.89 CSMC x0.23 | ratio 0.27
+     pin4   dCSMC -14.0 dICC  -4.8 (transfer 0.34) | ICC x0.88 CSMC x0.16 | ratio 0.19
+     pin8   dCSMC -15.8 dICC  -5.5 (transfer 0.35) | ICC x0.87 CSMC x0.11 | ratio 0.13
+     pin16  dCSMC -16.9 dICC  -5.8 (transfer 0.35) | ICC x0.86 CSMC x0.07 | ratio 0.08
+thin300 g_c 3: ctrl CSMC rest -66.7 ICC rest -69.8 | ICC 61.3 CSMC 87.9 ratio 1.43
+     pin1   dCSMC  -7.5 dICC  -3.9 (transfer 0.53) | ICC x0.76 CSMC x0.24 | ratio 0.46
+     pin2   dCSMC -10.1 dICC  -5.2 (transfer 0.51) | ICC x0.73 CSMC x0.18 | ratio 0.35
+     pin4   dCSMC -12.7 dICC  -6.4 (transfer 0.50) | ICC x0.71 CSMC x0.13 | ratio 0.26
+     pin8   dCSMC -14.4 dICC  -7.1 (transfer 0.50) | ICC x0.69 CSMC x0.09 | ratio 0.18
+     pin16  dCSMC -15.6 dICC  -7.7 (transfer 0.49) | ICC x0.68 CSMC x0.06 | ratio 0.12
+thin300 g_c 4: ctrl CSMC rest -66.8 ICC rest -69.5 | ICC 62.8 CSMC 86.8 ratio 1.38
+     pin1   dCSMC  -7.3 dICC  -4.4 (transfer 0.60) | ICC x0.71 CSMC x0.27 | ratio 0.53
+     pin2   dCSMC  -9.9 dICC  -5.8 (transfer 0.59) | ICC x0.68 CSMC x0.21 | ratio 0.43
+     pin4   dCSMC -12.5 dICC  -7.0 (transfer 0.56) | ICC x0.65 CSMC x0.15 | ratio 0.32
+     pin8   dCSMC -14.3 dICC  -8.0 (transfer 0.56) | ICC x0.62 CSMC x0.10 | ratio 0.22
+     pin16  dCSMC -15.5 dICC  -8.6 (transfer 0.55) | ICC x0.60 CSMC x0.07 | ratio 0.15
+thin300 g_c 6: ctrl CSMC rest -67.1 ICC rest -69.7 | ICC 65.0 CSMC 85.4 ratio 1.31
+     pin1   dCSMC  -6.8 dICC  -4.2 (transfer 0.62) | ICC x0.66 CSMC x0.31 | ratio 0.63
+     pin2   dCSMC  -9.4 dICC  -5.9 (transfer 0.63) | ICC x0.62 CSMC x0.25 | ratio 0.53
+     pin4   dCSMC -11.9 dICC  -7.4 (transfer 0.62) | ICC x0.57 CSMC x0.18 | ratio 0.42
+     pin8   dCSMC -13.8 dICC  -8.5 (transfer 0.61) | ICC x0.53 CSMC x0.12 | ratio 0.30
+     pin16  dCSMC -15.0 dICC  -9.2 (transfer 0.61) | ICC x0.49 CSMC x0.08 | ratio 0.21
+thin3000 g_c 1: ctrl CSMC rest -64.9 ICC rest -71.1 | ICC 50.8 CSMC 19.6 ratio 0.38
+     pin1   dCSMC  -9.5 dICC  -2.3 (transfer 0.24) | ICC x1.01 CSMC x0.56 | ratio 0.21
+     pin2   dCSMC -12.6 dICC  -3.0 (transfer 0.24) | ICC x1.02 CSMC x0.38 | ratio 0.14
+     pin4   dCSMC -15.2 dICC  -3.6 (transfer 0.24) | ICC x1.02 CSMC x0.25 | ratio 0.09
+     pin8   dCSMC -16.9 dICC  -4.0 (transfer 0.24) | ICC x1.02 CSMC x0.15 | ratio 0.06
+     pin16  dCSMC -17.9 dICC  -4.2 (transfer 0.24) | ICC x1.02 CSMC x0.08 | ratio 0.03
+thin3000 g_c 2: ctrl CSMC rest -65.5 ICC rest -70.7 | ICC 53.7 CSMC 57.2 ratio 1.07
+     pin1   dCSMC  -8.9 dICC  -3.0 (transfer 0.33) | ICC x0.90 CSMC x0.29 | ratio 0.35
+     pin2   dCSMC -11.8 dICC  -4.1 (transfer 0.35) | ICC x0.89 CSMC x0.21 | ratio 0.25
+     pin4   dCSMC -14.2 dICC  -4.9 (transfer 0.35) | ICC x0.88 CSMC x0.14 | ratio 0.17
+     pin8   dCSMC -16.0 dICC  -5.7 (transfer 0.35) | ICC x0.87 CSMC x0.08 | ratio 0.10
+     pin16  dCSMC -17.2 dICC  -6.0 (transfer 0.35) | ICC x0.86 CSMC x0.05 | ratio 0.06
+thin3000 g_c 3: ctrl CSMC rest -66.3 ICC rest -69.5 | ICC 60.9 CSMC 87.3 ratio 1.43
+     pin1   dCSMC  -7.8 dICC  -4.4 (transfer 0.56) | ICC x0.75 CSMC x0.23 | ratio 0.44
+     pin2   dCSMC -10.7 dICC  -5.7 (transfer 0.53) | ICC x0.73 CSMC x0.17 | ratio 0.34
+     pin4   dCSMC -13.3 dICC  -6.9 (transfer 0.52) | ICC x0.71 CSMC x0.11 | ratio 0.23
+     pin8   dCSMC -15.1 dICC  -7.6 (transfer 0.51) | ICC x0.69 CSMC x0.07 | ratio 0.15
+     pin16  dCSMC -16.3 dICC  -8.2 (transfer 0.50) | ICC x0.67 CSMC x0.04 | ratio 0.08
+thin3000 g_c 4: ctrl CSMC rest -66.9 ICC rest -69.9 | ICC 63.3 CSMC 88.6 ratio 1.40
+     pin1   dCSMC  -7.0 dICC  -4.2 (transfer 0.60) | ICC x0.70 CSMC x0.26 | ratio 0.52
+     pin2   dCSMC  -9.9 dICC  -5.4 (transfer 0.55) | ICC x0.67 CSMC x0.19 | ratio 0.41
+     pin4   dCSMC -12.6 dICC  -6.8 (transfer 0.54) | ICC x0.64 CSMC x0.13 | ratio 0.29
+     pin8   dCSMC -14.4 dICC  -7.8 (transfer 0.54) | ICC x0.61 CSMC x0.08 | ratio 0.19
+     pin16  dCSMC -15.6 dICC  -8.4 (transfer 0.54) | ICC x0.58 CSMC x0.05 | ratio 0.11
+thin3000 g_c 6: ctrl CSMC rest -67.2 ICC rest -69.7 | ICC 65.7 CSMC 87.4 ratio 1.33
+     pin1   dCSMC  -6.5 dICC  -4.2 (transfer 0.65) | ICC x0.64 CSMC x0.30 | ratio 0.61
+     pin2   dCSMC  -9.6 dICC  -6.1 (transfer 0.63) | ICC x0.60 CSMC x0.23 | ratio 0.51
+     pin4   dCSMC -12.0 dICC  -7.4 (transfer 0.62) | ICC x0.55 CSMC x0.15 | ratio 0.38
+     pin8   dCSMC -13.9 dICC  -8.7 (transfer 0.62) | ICC x0.50 CSMC x0.09 | ratio 0.25
+     pin16  dCSMC -15.2 dICC  -9.3 (transfer 0.61) | ICC x0.47 CSMC x0.05 | ratio 0.15
+recorded pinacidil: CSMC -10.3, ICC-MY -9.6 mV (transfer 0.93); ICC-MY x~1.16, CSMC x~0.2; control ratio 0.60

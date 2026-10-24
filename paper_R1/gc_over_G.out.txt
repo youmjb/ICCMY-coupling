@@ -1,0 +1,5 @@
+base   G_load 1.61 nS  g_c* 1.18  g_c/G 0.73  (band 0.54-0.99)  eff load 0.68 nS
+gSS15  G_load 1.14 nS  g_c* 0.70  g_c/G 0.61  (band 0.50-0.76)  eff load 0.43 nS
+gSS60  G_load 2.28 nS  g_c* 1.77  g_c/G 0.78  (band 0.60-1.03)  eff load 1.00 nS
+m0.15  G_load 0.80 nS  g_c* 0.56  g_c/G 0.70  (band nan-0.86)  eff load 0.33 nS
+m0.45  G_load 2.41 nS  g_c* 2.18  g_c/G 0.90  (band 0.60-1.11)  eff load 1.15 nS

@@ -1,0 +1,9 @@
+out/
+bin/
+*.obj
+*.exe
+*.pdb
+*.ilk
+__pycache__/
+paper_R1/fig/*.pdf
+paper_R1/fig/*.tif

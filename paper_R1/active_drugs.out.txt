@@ -1,0 +1,45 @@
+C1 ('1.5', '2', '-50', '-65', '1'): control CSMC rest -70.4, ICC rest -72.5, ICC 51.3, CSMC 30.6 mV, ratio 0.60, dV/dt 0.30
+   pin1    dCSMC  -3.4  dICC  -1.0 | ICC x0.97  CSMC x0.61  dV/dt x0.76 | ratio 0.37
+   pin2    dCSMC  -5.1  dICC  -1.5 | ICC x0.97  CSMC x0.49  dV/dt x0.65 | ratio 0.30
+   pin4    dCSMC  -6.4  dICC  -1.9 | ICC x0.96  CSMC x0.40  dV/dt x0.53 | ratio 0.25
+   pin8    dCSMC  -7.4  dICC  -2.3 | ICC x0.95  CSMC x0.29  dV/dt x0.40 | ratio 0.18
+   apa     dCSMC  +1.3  dICC  +0.8 | ICC x1.00  CSMC x1.06  dV/dt x1.11 | ratio 0.63
+   4ap0.85 dCSMC  +1.5  dICC  +0.5 | ICC x1.01  CSMC x1.13  dV/dt x1.16 | ratio 0.67
+   4ap0.75 dCSMC  +2.1  dICC  +0.8 | ICC x1.02  CSMC x1.29  dV/dt x1.27 | ratio 0.75
+   4ap0.5  dCSMC  +6.6  dICC  +1.7 | ICC x1.11  CSMC x2.43  dV/dt x6.16 | ratio 1.31
+   4ap0.25 dCSMC +13.6  dICC  +5.0 | ICC x1.04  CSMC x2.14  dV/dt x4.68 | ratio 1.22
+   4ap0    dCSMC +20.1  dICC +11.0 | ICC x1.02  CSMC x2.09  dV/dt x13.46 | ratio 1.22
+C2 ('1.5', '4', '-45', '-65', '1'): control CSMC rest -70.7, ICC rest -72.3, ICC 51.5, CSMC 31.9 mV, ratio 0.62, dV/dt 0.28
+   pin1    dCSMC  -3.3  dICC  -1.2 | ICC x0.97  CSMC x0.56  dV/dt x0.81 | ratio 0.36
+   pin2    dCSMC  -4.6  dICC  -1.7 | ICC x0.96  CSMC x0.47  dV/dt x0.70 | ratio 0.30
+   pin4    dCSMC  -6.0  dICC  -2.1 | ICC x0.95  CSMC x0.37  dV/dt x0.57 | ratio 0.24
+   pin8    dCSMC  -7.2  dICC  -2.5 | ICC x0.95  CSMC x0.28  dV/dt x0.43 | ratio 0.19
+   apa     dCSMC  +1.4  dICC  +0.6 | ICC x1.13  CSMC x2.42  dV/dt x5.00 | ratio 1.33
+   4ap0.85 dCSMC  +0.9  dICC  +0.3 | ICC x1.15  CSMC x2.58  dV/dt x7.22 | ratio 1.39
+   4ap0.75 dCSMC  +2.2  dICC  +0.6 | ICC x1.16  CSMC x2.68  dV/dt x8.25 | ratio 1.43
+   4ap0.5  dCSMC  +5.0  dICC  +1.7 | ICC x1.15  CSMC x2.69  dV/dt x9.93 | ratio 1.45
+   4ap0.25 dCSMC +12.5  dICC  +6.7 | ICC x0.99  CSMC x2.22  dV/dt x21.10 | ratio 1.39
+   4ap0    dCSMC +22.0  dICC +11.8 | ICC x1.03  CSMC x1.97  dV/dt x13.44 | ratio 1.19
+C3 ('1', '2', '-50', '-60', '1'): control CSMC rest -70.1, ICC rest -72.4, ICC 53.5, CSMC 37.6 mV, ratio 0.70, dV/dt 0.31
+   pin1    dCSMC  -3.9  dICC  -1.0 | ICC x0.96  CSMC x0.37  dV/dt x0.61 | ratio 0.27
+   pin2    dCSMC  -5.3  dICC  -1.4 | ICC x0.96  CSMC x0.30  dV/dt x0.53 | ratio 0.22
+   pin4    dCSMC  -6.8  dICC  -1.7 | ICC x0.95  CSMC x0.25  dV/dt x0.43 | ratio 0.18
+   pin8    dCSMC  -7.9  dICC  -2.0 | ICC x0.95  CSMC x0.18  dV/dt x0.32 | ratio 0.13
+   apa     dCSMC  +1.9  dICC  +0.6 | ICC x1.08  CSMC x2.11  dV/dt x5.58 | ratio 1.38
+   4ap0.85 dCSMC  +0.9  dICC  +0.2 | ICC x1.09  CSMC x2.24  dV/dt x7.41 | ratio 1.44
+   4ap0.75 dCSMC  +2.5  dICC  +0.7 | ICC x0.93  CSMC x2.04  dV/dt x13.98 | ratio 1.54
+   4ap0.5  dCSMC  +6.1  dICC  +3.6 | ICC x1.06  CSMC x2.20  dV/dt x20.90 | ratio 1.46
+   4ap0.25 dCSMC  +9.8  dICC  +4.7 | ICC x0.96  CSMC x1.90  dV/dt x15.16 | ratio 1.39
+   4ap0    dCSMC +23.8  dICC  +9.8 | ICC x0.92  CSMC x1.59  dV/dt x11.25 | ratio 1.21
+P ('2.33', '0', '-50', '-65', '0.4'): control CSMC rest -66.7, ICC rest -70.5, ICC 48.1, CSMC 28.7 mV, ratio 0.60, dV/dt 0.33
+   pin1    dCSMC  -6.1  dICC  -2.6 | ICC x1.00  CSMC x0.80  dV/dt x0.85 | ratio 0.48
+   pin2    dCSMC  -7.8  dICC  -3.2 | ICC x0.99  CSMC x0.69  dV/dt x0.74 | ratio 0.42
+   pin4    dCSMC  -9.6  dICC  -4.1 | ICC x0.97  CSMC x0.57  dV/dt x0.60 | ratio 0.35
+   pin8    dCSMC -10.9  dICC  -4.7 | ICC x0.96  CSMC x0.43  dV/dt x0.45 | ratio 0.27
+   apa     dCSMC  +1.6  dICC  +1.2 | ICC x0.99  CSMC x1.04  dV/dt x0.99 | ratio 0.63
+   4ap0.85 dCSMC  +0.5  dICC  +0.4 | ICC x1.00  CSMC x1.05  dV/dt x1.02 | ratio 0.63
+   4ap0.75 dCSMC  +1.1  dICC  +0.4 | ICC x1.00  CSMC x1.06  dV/dt x1.02 | ratio 0.63
+   4ap0.5  dCSMC  +3.3  dICC  +1.1 | ICC x1.07  CSMC x1.69  dV/dt x2.66 | ratio 0.94
+   4ap0.25 dCSMC  +7.3  dICC  +2.9 | ICC x1.15  CSMC x2.45  dV/dt x4.92 | ratio 1.27
+   4ap0    dCSMC +11.5  dICC  +8.4 | ICC x1.36  CSMC x2.58  dV/dt x16.23 | ratio 1.14
+recorded: pinacidil dCSMC -10.3 dICC -9.6, ICC x~1.16, CSMC x~0.2 | apamin +3.1/+3.3, ICC x0.96, CSMC x1.00 | 4-AP +3.1/+3.9, ICC x0.94, CSMC x1.22, dV/dt x1.31

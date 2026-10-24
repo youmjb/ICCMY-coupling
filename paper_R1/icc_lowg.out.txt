@@ -1,0 +1,7 @@
+f    1: rest  -72.6 mV, amp  60.3, dV/dt  1.74, rate 17.9 min-1 (n 12) | g_own(5 pA)  2.91 nS | 35 pA: dV -11.9, amp x1.19, dV/dt x1.54, rate 18.3
+f  0.5: rest  -71.0 mV, amp  58.8, dV/dt  1.55, rate 17.1 min-1 (n 11) | g_own(5 pA)  1.51 nS | 35 pA: dV -17.7, amp x1.39, dV/dt x2.61, rate 17.6
+f  0.3: rest  -69.0 mV, amp  54.9, dV/dt  1.22, rate 15.8 min-1 (n 10) | g_own(5 pA)  0.90 nS | 35 pA: dV -24.6, amp x1.62, dV/dt x4.09, rate 16.7
+f  0.2: rest  -67.7 mV, amp  52.8, dV/dt  1.08, rate 10.9 min-1 (n 8) | g_own(5 pA)  0.72 nS | 35 pA: dV -30.8, amp x1.81, dV/dt x5.26, rate 15.6
+f  0.1: rest  -20.9 mV, amp   7.3, dV/dt  0.01, rate  5.8 min-1 (n 4) | g_own(5 pA)  0.09 nS | 35 pA: dV -90.7, amp x14.84, dV/dt x1206.32, rate 12.2
+f 0.05: rest  -14.7 mV, amp  10.2, dV/dt  0.02, rate  4.5 min-1 (n 3) | g_own(5 pA)  0.08 nS | 35 pA: dV -120.0, amp x12.39, dV/dt x361.00, rate  7.3
+f 0.03: rest  -12.7 mV, amp  12.9, dV/dt  0.03, rate  4.1 min-1 (n 3) | g_own(5 pA)  0.07 nS | 35 pA: dV -150.5, amp x0.00, dV/dt x0.00, rate  0.0

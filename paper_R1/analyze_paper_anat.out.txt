@@ -1,0 +1,10 @@
+case | G_load (nS) | g_c* 21.7/24.4/27.1 | g_c*/G_load | ICC amp at g_c* (nearest) | g_c at SMC/ICC = 0.43 (Kito ratio) | /G_load
+L30 m0.3 gSS30 (model) | 1.61 | 1.20 / 1.52 / 2.02 | 0.95 (0.75-1.26) | 49.2 | 1.17 | 0.72
+L30 m0.3 gSS15 | 1.14 | 0.82 / 1.03 / 1.30 | 0.90 (0.72-1.14) | 51.1 | 0.84 | 0.74
+L30 m0.3 gSS60 | 2.27 | 1.92 / 2.54 / nan | 1.12 (0.85-nan) | 45.0 | 1.65 | 0.72
+L30 m0.15 gSS30 | 0.80 | 0.54 / 0.67 / 0.83 | 0.83 (0.67-1.03) | 53.1 | 0.58 | 0.72
+L30 m0.45 gSS30 | 2.41 | 2.05 / 2.87 / nan | 1.19 (0.85-nan) | 44.6 | 1.76 | 0.73
+L7 m1.3 gSS30 (mouse-like, same membrane) | 5.92 | nan / nan / nan | nan (nan-nan) | nan | 4.22 | 0.71
+L8 m3 gSS30 | 14.36 | nan / nan / nan | nan (nan-nan) | nan | 10.17 | 0.71
+L8 m3 gSS300 | 21.59 | nan / nan / nan | nan (nan-nan) | nan | 14.16 | 0.66
+wrote paper_R1/fig/anat.png

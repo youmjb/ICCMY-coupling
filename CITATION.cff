@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper and this archive."
+title: "ICC-MY–smooth muscle coupling: simulation code"
+version: 1.0.0
+date-released: 2026-10-24
+license: MIT
+authors:
+  - family-names: Youm
+    given-names: Jae Boum
+    affiliation: "Department of Physiology and Biophysics, Inje University College of Medicine, Busan, Korea"
+    orcid: "https://orcid.org/0000-0002-7340-1118"
+# doi: add the Zenodo DOI after archiving
+preferred-citation:
+  type: article
+  title: "Muscle resting changes reach the intestinal pacemaker more than a pacemaker-cell model predicts: a test against drug and input-resistance data"
+  authors:
+    - family-names: Youm
+      given-names: Jae Boum
+  journal: "The Korean Journal of Physiology & Pharmacology"
+  status: submitted

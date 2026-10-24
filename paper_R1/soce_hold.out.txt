@@ -1,0 +1,6 @@
+case | voltage clamp at -80 mV (last 50 s): quiet holding current, events > 50 pA inward, mean peak, half-width | free running (last 50 s): rest, peak, events > 20 mV
+  ctrl     | hold     2.3 pA, 15 events, peak     50 pA, half-width   254 ms | rest  -72.8 mV, max  -14.3 mV, 14 events (16.8 min-1)
+  soc0.5   | hold   -11.6 pA,  6 events, peak     50 pA, half-width    46 ms | rest  -74.1 mV, max  -14.6 mV, 7 events (8.4 min-1)
+  soc0.25  | hold   -13.5 pA,  3 events, peak     50 pA, half-width    40 ms | rest  -74.5 mV, max  -14.5 mV, 4 events (4.8 min-1)
+  soc0     | hold   -15.6 pA,  0 events, peak      0 pA, half-width     0 ms | rest  -74.9 mV, max  -74.8 mV, 0 events (0.0 min-1)
+  ano0     | hold   -20.4 pA,  0 events, peak      0 pA, half-width     0 ms | rest  -73.7 mV, max  -73.2 mV, 0 events (0.0 min-1)

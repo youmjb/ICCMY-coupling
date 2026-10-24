@@ -1,0 +1,15 @@
+Fig2C rabbit: g_c/G_load 0.66-0.75 (n 10)
+Fig2C mouse: g_c/G_load 1.23-1.49 (n 10)
+Fig2D pinacidil set: control ratio 0.52 -> g_c 1.23 nS
+Fig2D apamin and
+phenylephrine sets: control ratio 0.59 -> g_c 1.55 nS
+Fig2D 4-AP set: control ratio 0.62 -> g_c 1.73 nS
+Fig2D reference model g_c 1.0: ratio 0.442 (0.433-0.446)
+Fig2D reference model g_c 1.25: ratio 0.525 (0.519-0.536)
+Fig2D reference model g_c 1.5: ratio 0.583 (0.578-0.586)
+Fig2D reference model g_c 1.75: ratio 0.623 (0.617-0.635)
+Fig2D reference model g_c 2.0: ratio 0.645 (0.639-0.650)
+Fig2D original model g_c 1: ratio 0.389
+Fig2D original model g_c 1.5: ratio 0.493
+Fig2D original model g_c 2: ratio 0.562
+Fig2D original model g_c 3: ratio 0.674

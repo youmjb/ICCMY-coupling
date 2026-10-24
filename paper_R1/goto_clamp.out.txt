@@ -1,0 +1,12 @@
+cell f | holding current at -80 mV (pA) | R_in from -20 / +10 / +20 mV (MOhm) | conductance per pF (-20 mV) | tau = C R (ms)
+  pub f   1: hold   -43.9 pA |     77 /    179 /    271 MOhm | 0.518 nS/pF | 1.9 ms
+  pub f 0.5: hold   -25.5 pA |    153 /    359 /    543 MOhm | 0.262 nS/pF | 3.8 ms
+  pub f 0.3: hold   -19.1 pA |    253 /    596 /    897 MOhm | 0.158 nS/pF | 6.3 ms
+  pub f 0.2: hold   -17.3 pA |    381 /    909 /   1376 MOhm | 0.105 nS/pF | 9.5 ms
+  pub f 0.1: hold   -14.7 pA |    807 /   7377 /   -746 MOhm | 0.050 nS/pF | 20.2 ms
+  var f 1: no quiet window or failed ([Errno 2] No such file or directory: 'out/paper_goto/var_f1_dv-20.csv.t0')
+  var f 0.5: hold   -18.7 pA |    212 /    500 /    770 MOhm | 0.262 nS/pF | 3.8 ms
+  var f 0.3: hold   -17.0 pA |    353 /    842 /   1349 MOhm | 0.157 nS/pF | 6.4 ms
+  var f 0.2: hold   -16.6 pA |    540 /   1391 /   3120 MOhm | 0.103 nS/pF | 9.7 ms
+  var f 0.1: no quiet window or failed ([Errno 2] No such file or directory: 'out/paper_goto/var_f0.1_dv-20.csv.t0')
+Goto 2004: 0.76 +/- 0.41 GOhm (n 3; 0.7 GOhm in the example cell, slightly larger current for -20 than for +20 mV), 25.2 pF -> 0.052 nS/pF, ~19 ms

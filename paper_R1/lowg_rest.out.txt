@@ -1,0 +1,32 @@
+
+=== f 0.2, muscle tonic K 0.8 nS
+  g_c 2: ICC rest  -67.7 amp  43.6 | muscle rest  -67.9 amp  21.9 | ratio 0.50 || pin at -10.3: T 0.76 ICCx1.11 Mx0.72 (dM -12.9 to -6.4)
+  g_c 3: ICC rest  -68.2 amp  42.8 | muscle rest  -67.7 amp  25.8 | ratio 0.60 || pin at -10.3: T 0.77 ICCx1.08 Mx0.76 (dM -13.0 to -6.6)
+  g_c 4: ICC rest  -68.1 amp  42.0 | muscle rest  -67.8 amp  28.0 | ratio 0.67 || pin at -10.3: T 0.84 ICCx1.06 Mx0.78 (dM -12.8 to -6.3)
+
+=== f 0.2, muscle tonic K 1.2 nS
+  g_c 2: ICC rest  -70.2 amp  45.0 | muscle rest  -70.6 amp  20.8 | ratio 0.46 || pin at -10.3: T 0.70 ICCx1.08 Mx0.54 (dM -10.3 to -4.5)
+  g_c 3: ICC rest  -70.4 amp  43.7 | muscle rest  -70.6 amp  24.4 | ratio 0.56 || pin at -10.3: T 0.77 ICCx1.04 Mx0.57 (dM -10.1 to -4.2)
+  g_c 4: ICC rest  -70.5 amp  43.0 | muscle rest  -70.3 amp  27.1 | ratio 0.63 || pin at -10.3: T 0.80 ICCx1.00 Mx0.59 (dM -10.3 to -4.5)
+
+=== f 0.2, muscle tonic K 1.6 nS
+  g_c 2: ICC rest  -71.3 amp  45.6 | muscle rest  -72.2 amp  19.6 | ratio 0.43 || pin at -10.3: T 0.70 ICCx1.06 Mx0.55 (dM -8.6 to -3.2)
+  g_c 3: ICC rest  -71.6 amp  44.4 | muscle rest  -72.1 amp  23.5 | ratio 0.53 || pin at -10.3: T 0.78 ICCx1.02 Mx0.58 (dM -8.5 to -3.2)
+  g_c 4: ICC rest  -71.5 amp  43.4 | muscle rest  -71.8 amp  26.1 | ratio 0.60 || pin at -10.3: T 0.82 ICCx0.99 Mx0.61 (dM -8.7 to -3.5)
+
+=== f 0.1, muscle tonic K 0.8 nS
+  g_c 2: ICC rest  -66.5 amp  41.9 | muscle rest  -67.6 amp  21.2 | ratio 0.50 || pin at -10.3: T 0.86 ICCx1.14 Mx0.76 (dM -13.4 to -6.6)
+  g_c 3: ICC rest  -66.9 amp  41.3 | muscle rest  -66.7 amp  24.9 | ratio 0.60 || pin at -10.3: T 0.84 ICCx1.11 Mx0.83 (dM -14.1 to -7.2)
+  g_c 4: ICC rest  -67.2 amp  40.5 | muscle rest  -67.1 amp  27.0 | ratio 0.67 || pin at -10.3: T 0.88 ICCx1.09 Mx0.84 (dM -13.8 to -6.8)
+
+=== f 0.1, muscle tonic K 1.2 nS
+  g_c 2: ICC rest  -68.8 amp  43.6 | muscle rest  -69.8 amp  19.9 | ratio 0.46 || pin at -10.3: T 0.81 ICCx1.11 Mx0.63 (dM -11.1 to -5.0)
+  g_c 3: ICC rest  -69.4 amp  42.7 | muscle rest  -69.8 amp  23.9 | ratio 0.56 || pin at -10.3: T 0.84 ICCx1.07 Mx0.65 (dM -11.1 to -5.1)
+  g_c 4: ICC rest  -69.4 amp  41.7 | muscle rest  -69.7 amp  26.3 | ratio 0.63 || pin at -10.3: T 0.89 ICCx1.03 Mx0.67 (dM -11.1 to -5.1)
+
+=== f 0.1, muscle tonic K 1.6 nS
+  g_c 2: ICC rest  -70.5 amp  44.5 | muscle rest  -71.9 amp  19.2 | ratio 0.43 || pin at -10.3: T 0.81 ICCx1.09 Mx0.56 (dM -9.0 to -3.5)
+  g_c 3: ICC rest  -70.9 amp  43.3 | muscle rest  -71.7 amp  23.0 | ratio 0.53 || pin at -10.3: T 0.85 ICCx1.04 Mx0.60 (dM -9.1 to -3.6)
+  g_c 4: ICC rest  -71.8 amp  42.9 | muscle rest  -71.6 amp  26.0 | ratio 0.61 || pin at -10.3: T 0.80 ICCx0.99 Mx0.60 (dM -9.1 to -3.6)
+
+[exited with code 0]

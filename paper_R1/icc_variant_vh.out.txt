@@ -1,0 +1,21 @@
+VDDR inactivation midpoint -70 mV
+VDDR x | IP3 V-dep | control: rest, amplitude, dV/dt, rate | hyperpolarized by 25 / 35 pA: d rest, amplitude x, dV/dt x, rate
+ 2 |   0 |  -72.7  56.2  1.17  17.5 |  -7.9 x1.06 x0.86  18.1 | -10.6 x1.07 x0.80  18.1 |
+ 4 |   0 |  -72.6  58.7  1.49  17.7 |  -7.9 x1.05 x0.80  18.2 | -10.6 x1.05 x0.68  18.2 |
+ 8 |   0 |  -72.5  63.7  2.35  18.1 |  -8.0 x1.07 x0.98  18.4 | -10.7 x1.08 x0.88  18.3 |
+16 |   0 |  -72.2  70.9  4.22  18.8 |  -7.9 x1.09 x1.17  18.8 | -10.6 x1.11 x1.15  18.6 |
+in situ: control -70 mV, 56-61 mV, 1.5-2.5 V/s, 25-26 min-1; pinacidil -9.6 mV, amplitude x~1.16, dV/dt up (~x1.5), rate unchanged
+VDDR inactivation midpoint -75 mV
+VDDR x | IP3 V-dep | control: rest, amplitude, dV/dt, rate | hyperpolarized by 25 / 35 pA: d rest, amplitude x, dV/dt x, rate
+ 2 |   0 |  -72.7  55.9  1.10  17.4 |  -7.9 x1.06 x0.90  18.1 | -10.6 x1.07 x0.85  18.1 |
+ 4 |   0 |  -72.7  56.8  1.24  17.6 |  -7.9 x1.06 x0.86  18.2 | -10.6 x1.07 x0.79  18.1 |
+ 8 |   0 |  -72.6  60.0  1.68  17.8 |  -8.0 x1.09 x1.04  18.3 | -10.6 x1.11 x0.97  18.3 |
+16 |   0 |  -72.4  65.7  2.80  18.3 |  -7.9 x1.12 x1.34  18.7 | -10.6 x1.15 x1.38  18.5 |
+in situ: control -70 mV, 56-61 mV, 1.5-2.5 V/s, 25-26 min-1; pinacidil -9.6 mV, amplitude x~1.16, dV/dt up (~x1.5), rate unchanged
+VDDR inactivation midpoint -80 mV
+VDDR x | IP3 V-dep | control: rest, amplitude, dV/dt, rate | hyperpolarized by 25 / 35 pA: d rest, amplitude x, dV/dt x, rate
+ 2 |   0 |  -72.7  55.8  1.05  17.4 |  -7.9 x1.06 x0.92  18.1 | -10.6 x1.07 x0.88  18.1 |
+ 4 |   0 |  -72.7  55.9  1.11  17.4 |  -7.9 x1.06 x0.91  18.1 | -10.6 x1.08 x0.86  18.1 |
+ 8 |   0 |  -72.7  57.0  1.26  17.6 |  -7.9 x1.08 x0.98  18.2 | -10.5 x1.11 x0.92  18.2 |
+16 |   0 |  -72.6  60.5  1.76  17.9 |  -7.9 x1.14 x1.38  18.5 | -10.6 x1.18 x1.48  18.4 |
+in situ: control -70 mV, 56-61 mV, 1.5-2.5 V/s, 25-26 min-1; pinacidil -9.6 mV, amplitude x~1.16, dV/dt up (~x1.5), rate unchanged

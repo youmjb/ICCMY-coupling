@@ -1,0 +1,5 @@
+g_c | ICC-MY rest ctrl -> SK block (d) | CSMC rest ctrl -> SK block (d) | transfer dICC/dCSMC | amp ICC, CSMC ctrl -> SK block
+  1 |  -71.0 ->  -70.3 (+0.8); between waves  -70.7 ->  -70.1 (+0.6) |  -65.5 ->  -63.4 (+2.1) | 0.36 | 50.4, 19.6 -> 49.9, 19.7
+1.5 |  -70.9 ->  -69.7 (+1.2); between waves  -70.4 ->  -69.6 (+0.8) |  -66.2 ->  -64.2 (+2.0) | 0.58 | 49.2, 24.3 -> 48.6, 24.3
+  2 |  -70.6 ->  -69.4 (+1.2); between waves  -70.1 ->  -69.2 (+0.9) |  -66.5 ->  -64.8 (+1.7) | 0.71 | 48.0, 27.0 -> 47.7, 27.7
+Kito & Suzuki 2007 Table 1: CSMC -70.8 -> -67.7 (+3.1, n 15), primary 36.2 -> 36.0; ICC-MY -71.7 -> -68.4 (+3.3, n 7), amplitude 61.3 -> 58.8

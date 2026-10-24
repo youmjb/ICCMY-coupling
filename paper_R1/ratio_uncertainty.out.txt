@@ -1,0 +1,7 @@
+model ratio at g_c {0.5: 0.24, 1: 0.389, 1.5: 0.493, 2: 0.562, 3: 0.674, 5: 0.788}
+== rabbit ileum: point ratio 0.429
+  (a) ratio of means: r 95 % 0.397-0.465 (68 % 0.412-0.446); passive g_c/Y 95 % 0.66-0.87; full model g_c/G_load 95 % 0.64-0.83 (68 % 0.68-0.78); outside simulated g_c 0.5-5 nS: 0.0%
+  (b) single-cell ratio: r 95 % 0.313-0.589 (68 % 0.367-0.502); passive g_c/Y 95 % 0.46-1.43; full model g_c/G_load 95 % 0.44-1.37 (68 % 0.56-0.97); outside simulated g_c 0.5-5 nS: 0.0%
+== mouse small intestine: point ratio 0.604
+  (a) ratio of means: r 95 % 0.572-0.637 (68 % 0.587-0.620); passive g_c/Y 95 % 1.33-1.75; full model g_c/G_load 95 % 1.29-1.63 (68 % 1.36-1.54); outside simulated g_c 0.5-5 nS: 0.0%
+  (b) single-cell ratio: r 95 % 0.425-0.822 (68 % 0.509-0.708); passive g_c/Y 95 % 0.74-4.56; full model g_c/G_load 95 % 0.71-2.77 (68 % 0.99-2.02); outside simulated g_c 0.5-5 nS: 4.6%

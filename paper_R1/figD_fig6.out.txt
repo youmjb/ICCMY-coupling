@@ -1,0 +1,11 @@
+A resting currents x1: R_in (-80 mV hold) -20 mV step 77, +10 mV step 179 MOhm; transfer (passive muscle, g_c 1.75) 0.40
+A resting currents x0.3: R_in (-80 mV hold) -20 mV step 253, +10 mV step 596 MOhm; transfer (passive muscle, g_c 1.75) 0.77
+A resting currents x0.2: R_in (-80 mV hold) -20 mV step 381, +10 mV step 909 MOhm; transfer (passive muscle, g_c 1.75) 0.87
+A resting currents x0.1: R_in (-80 mV hold) -20 mV step 807, +10 mV step 7377 MOhm; transfer (passive muscle, g_c 1.75) 0.97
+A model D: R_in -20 mV step 253 MOhm, transfer 0.55, ICC x1.06 (g_c 1.19)
+A model C: R_in -20 mV step 807 MOhm, transfer 0.79, ICC x1.14 (g_c 1.23)
+A Goto 2004 R_in 760 +/- 410 MOhm (25.2 pF)
+B x1: tau N1/N3/N6 (all-to-all 3 nS) 5/5/5 ms
+B x0.3: tau N1/N3/N6 (all-to-all 3 nS) 17/21/23 ms
+B x0.2: tau N1/N3/N6 (all-to-all 3 nS) 25/36/42 ms
+B x0.1: tau N1/N3/N6 (all-to-all 3 nS) 119/261/227 ms

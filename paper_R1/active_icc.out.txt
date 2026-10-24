@@ -1,0 +1,37 @@
+g_c 1 iccGL 0: ctrl CSMC rest -70.3 ICC rest -72.4 | ICC 51.7 CSMC 22.0 ratio 0.43 dV/dt 0.24
+     apa   dCSMC  +1.6 dICC  +0.5 (transfer 0.32) | ICC x1.00 CSMC x1.21 dV/dt x1.06
+     pin2  dCSMC -10.1 dICC  -2.5 (transfer 0.25) | ICC x1.00 CSMC x0.51 dV/dt x0.68
+     pin4  dCSMC -13.0 dICC  -3.2 (transfer 0.25) | ICC x1.00 CSMC x0.41 dV/dt x0.55
+     pin8  dCSMC -15.3 dICC  -3.7 (transfer 0.24) | ICC x1.00 CSMC x0.31 dV/dt x0.40
+g_c 1 iccGL -1: ctrl CSMC rest -40.0 ICC rest 20.6 | ICC 1.6 CSMC 1.5 ratio 0.95 dV/dt 0.02
+     apa   no slow waves or diverged
+     pin2  dCSMC -40.5 dICC -96.1 (transfer 2.37) | ICC x36.89 CSMC x8.51 dV/dt x15.61
+     pin4  dCSMC -43.4 dICC -96.9 (transfer 2.23) | ICC x36.84 CSMC x6.88 dV/dt x12.56
+     pin8  dCSMC -45.7 dICC -97.6 (transfer 2.14) | ICC x36.80 CSMC x5.09 dV/dt x9.28
+1 -2 control: no slow waves or diverged
+1 -3 control: no slow waves or diverged
+g_c 1.5 iccGL 0: ctrl CSMC rest -70.4 ICC rest -72.5 | ICC 51.3 CSMC 30.6 ratio 0.60 dV/dt 0.30
+     apa   dCSMC  +1.3 dICC  +0.8 (transfer 0.62) | ICC x1.00 CSMC x1.06 dV/dt x1.11
+     pin2  dCSMC  -9.7 dICC  -3.0 (transfer 0.31) | ICC x0.98 CSMC x0.49 dV/dt x0.65
+     pin4  dCSMC -12.4 dICC  -3.8 (transfer 0.31) | ICC x0.97 CSMC x0.39 dV/dt x0.52
+     pin8  dCSMC -14.9 dICC  -4.5 (transfer 0.30) | ICC x0.97 CSMC x0.30 dV/dt x0.40
+g_c 1.5 iccGL -1: ctrl CSMC rest -70.4 ICC rest -72.1 | ICC 59.9 CSMC 38.6 ratio 0.64 dV/dt 0.55
+     apa   dCSMC +26.5 dICC +57.5 (transfer 2.17) | ICC x0.03 CSMC x0.02 dV/dt x0.00
+     pin2  dCSMC  -9.9 dICC  -4.1 (transfer 0.41) | ICC x0.96 CSMC x0.44 dV/dt x0.57
+     pin4  dCSMC -12.7 dICC  -5.1 (transfer 0.40) | ICC x0.96 CSMC x0.36 dV/dt x0.46
+     pin8  dCSMC -15.0 dICC  -6.0 (transfer 0.40) | ICC x0.96 CSMC x0.27 dV/dt x0.34
+1.5 -2 control: no slow waves or diverged
+1.5 -3 control: no slow waves or diverged
+g_c 2 iccGL 0: ctrl CSMC rest -70.6 ICC rest -72.2 | ICC 50.8 CSMC 34.3 ratio 0.67 dV/dt 0.36
+     apa   dCSMC  +1.3 dICC  +0.7 (transfer 0.54) | ICC x1.00 CSMC x1.04 dV/dt x1.10
+     pin2  dCSMC  -9.1 dICC  -3.6 (transfer 0.39) | ICC x0.96 CSMC x0.51 dV/dt x0.60
+     pin4  dCSMC -11.9 dICC  -4.5 (transfer 0.38) | ICC x0.95 CSMC x0.42 dV/dt x0.49
+     pin8  dCSMC -14.3 dICC  -5.4 (transfer 0.38) | ICC x0.94 CSMC x0.32 dV/dt x0.37
+g_c 2 iccGL -1: ctrl CSMC rest -69.8 ICC rest -72.2 | ICC 60.0 CSMC 46.5 ratio 0.77 dV/dt 0.62
+     apa   dCSMC  +1.0 dICC  +1.3 (transfer 1.32) | ICC x1.08 CSMC x1.54 dV/dt x1.23
+     pin2  dCSMC -10.1 dICC  -4.3 (transfer 0.42) | ICC x0.94 CSMC x0.44 dV/dt x0.53
+     pin4  dCSMC -12.9 dICC  -5.5 (transfer 0.43) | ICC x0.93 CSMC x0.36 dV/dt x0.43
+     pin8  dCSMC -15.3 dICC  -6.6 (transfer 0.43) | ICC x0.92 CSMC x0.28 dV/dt x0.32
+2 -2 control: no slow waves or diverged
+2 -3 control: no slow waves or diverged
+recorded: apamin dCSMC +3.1 dICC +3.3 (transfer ~1.06), ICC x0.96, CSMC x1.00 | pinacidil dCSMC -10.3 dICC -9.6 (0.93), ICC x~1.16, CSMC x~0.2 | control ratio 0.60

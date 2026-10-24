@@ -1,0 +1,4 @@
+original ICC, f 1: ICC rest -70.7 amp 48.4 | muscle rest -66.2 amp 25.3 | ratio 0.52 | at -10.3 mV: transfer 0.39, ICC x1.00, muscle x0.69
+original ICC, f 0.3: ICC rest -65.4 amp 42.8 | muscle rest -65.8 amp 22.5 | ratio 0.53 | at -10.3 mV: transfer 0.86, ICC x1.14, muscle x0.80
+original ICC, f 0.1: ICC rest -62.1 amp 37.3 | muscle rest -63.4 amp 19.3 | ratio 0.52 | at -10.3 mV: transfer 0.96, ICC x1.24, muscle x0.97
+variant upstroke/clock, same column (lowg_coupled): transfer 0.40 / 0.77 / 0.97, ICC x1.01 / x1.13 / x1.20 for f 1 / 0.3 / 0.1

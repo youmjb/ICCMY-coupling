@@ -1,0 +1,16 @@
+
+=== f 0.2, active muscle C1
+  g_c 0.75: ICC rest  -68.3 amp  46.6 | muscle rest  -68.8 amp  15.9 | ratio 0.34 || pin: [1: dM  -6.1 T 0.50 ICCx1.06 Mx0.65] [2: dM  -8.6 T 0.51 ICCx1.09 Mx0.56] [4: dM -10.7 T 0.51 ICCx1.11 Mx0.45] [8: dM -12.4 T 0.51 ICCx1.13 Mx0.34] [16: dM -13.6 T 0.51 ICCx1.14 Mx0.24]
+  g_c    1: ICC rest  -68.3 amp  46.0 | muscle rest  -68.9 amp  20.3 | ratio 0.44 || pin: [1: dM  -5.9 T 0.63 ICCx1.07 Mx0.65] [2: dM  -8.3 T 0.62 ICCx1.09 Mx0.55] [4: dM -10.5 T 0.60 ICCx1.11 Mx0.45] [8: dM -12.2 T 0.60 ICCx1.13 Mx0.34] [16: dM -13.4 T 0.59 ICCx1.14 Mx0.24]
+  g_c  1.5: ICC rest  -69.1 amp  46.5 | muscle rest  -68.3 amp  27.5 | ratio 0.59 || pin: [1: dM  -6.5 T 0.55 ICCx1.04 Mx0.64] [2: dM  -8.8 T 0.59 ICCx1.06 Mx0.54] [4: dM -11.0 T 0.59 ICCx1.07 Mx0.44] [8: dM -12.7 T 0.60 ICCx1.08 Mx0.34] [16: dM -13.9 T 0.60 ICCx1.08 Mx0.24]
+  g_c    2: ICC rest  -68.7 amp  45.6 | muscle rest  -68.2 amp  29.7 | ratio 0.65 || pin: [1: dM  -6.4 T 0.69 ICCx1.04 Mx0.72] [2: dM  -8.7 T 0.69 ICCx1.06 Mx0.61] [4: dM -10.9 T 0.70 ICCx1.07 Mx0.50] [8: dM -12.6 T 0.69 ICCx1.07 Mx0.38] [16: dM -13.9 T 0.69 ICCx1.06 Mx0.27]
+  g_c    3: ICC rest  -68.5 amp  44.5 | muscle rest  -68.2 amp  32.3 | ratio 0.73 || pin: [1: dM  -6.2 T 0.80 ICCx1.04 Mx0.82] [2: dM  -8.7 T 0.79 ICCx1.05 Mx0.69] [4: dM -10.7 T 0.78 ICCx1.04 Mx0.57] [8: dM -12.5 T 0.78 ICCx1.02 Mx0.44] [16: dM -13.8 T 0.77 ICCx1.00 Mx0.32]
+
+=== f 0.1, active muscle C1
+  g_c 0.75: ICC rest  -65.9 amp  43.5 | muscle rest  -69.1 amp  15.0 | ratio 0.34 || pin: [1: dM  -5.8 T 0.78 ICCx1.09 Mx0.68] [2: dM  -8.1 T 0.75 ICCx1.13 Mx0.57] [4: dM -10.5 T 0.73 ICCx1.16 Mx0.47] [8: dM -12.1 T 0.72 ICCx1.19 Mx0.35] [16: dM -13.3 T 0.71 ICCx1.21 Mx0.25]
+  g_c    1: ICC rest  -66.6 amp  43.4 | muscle rest  -68.3 amp  19.4 | ratio 0.45 || pin: [1: dM  -6.4 T 0.72 ICCx1.10 Mx0.66] [2: dM  -8.8 T 0.74 ICCx1.13 Mx0.56] [4: dM -11.2 T 0.72 ICCx1.16 Mx0.46] [8: dM -12.9 T 0.71 ICCx1.18 Mx0.35] [16: dM -14.0 T 0.71 ICCx1.20 Mx0.25]
+  g_c  1.5: ICC rest  -67.0 amp  44.3 | muscle rest  -68.1 amp  25.6 | ratio 0.58 || pin: [1: dM  -6.3 T 0.80 ICCx1.06 Mx0.68] [2: dM  -8.8 T 0.78 ICCx1.10 Mx0.58] [4: dM -11.1 T 0.78 ICCx1.12 Mx0.47] [8: dM -12.9 T 0.78 ICCx1.13 Mx0.36] [16: dM -14.1 T 0.77 ICCx1.14 Mx0.26]
+  g_c    2: ICC rest  -67.1 amp  43.6 | muscle rest  -67.8 amp  27.8 | ratio 0.64 || pin: [1: dM  -6.5 T 0.82 ICCx1.08 Mx0.78] [2: dM  -9.1 T 0.84 ICCx1.10 Mx0.64] [4: dM -11.3 T 0.82 ICCx1.11 Mx0.52] [8: dM -13.1 T 0.81 ICCx1.11 Mx0.40] [16: dM -14.4 T 0.81 ICCx1.11 Mx0.29]
+  g_c    3: ICC rest  -67.3 amp  43.0 | muscle rest  -67.6 amp  31.1 | ratio 0.72 || pin: [1: dM  -6.6 T 0.90 ICCx1.07 Mx0.85] [2: dM  -9.2 T 0.86 ICCx1.07 Mx0.71] [4: dM -11.5 T 0.86 ICCx1.07 Mx0.59] [8: dM -13.3 T 0.85 ICCx1.06 Mx0.46] [16: dM -14.5 T 0.85 ICCx1.03 Mx0.33]
+
+[exited with code 0]

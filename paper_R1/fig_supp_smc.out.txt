@@ -1,0 +1,8 @@
+B: peak I_CaL -35.46 pA/pF at 15 mV; I_K at +40 mV 7.09 pA/pF
+D: gK 0.0: zero crossings at -28.0 mV; slope at rest 2.98 nS
+D: gK 0.4: zero crossings at -67.5 mV; slope at rest 0.65 nS
+wrote paper_R1/fig/supp_smc.png
+gK 0.0: Vmin -47.8 Vmax 26.1, events 4, period 10.22 s
+gK 0.1: Vmin -55.9 Vmax -55.9, events 0, period nan s
+gK 0.2: Vmin -61.3 Vmax -61.3, events 0, period nan s
+gK 0.4: Vmin -67.0 Vmax -67.0, events 0, period nan s

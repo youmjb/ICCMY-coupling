@@ -1,0 +1,5 @@
+numpy
+scipy
+matplotlib
+pillow
+# optional: myokit (only for gen_poh_cpp.py / check_poh_ref.py, which regenerate and check src/PohSMC.h from the CellML file)

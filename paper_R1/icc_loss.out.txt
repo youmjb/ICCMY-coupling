@@ -1,0 +1,32 @@
+(1) ICC loss: remaining ICC-MY fraction f, m = 0.3/f, g_c per ICC-MY fixed
+species g_c | f | m | G_load | ICC-MY amp (% uncoupled) | layer-1 amp | layer-1/ICC-MY (passive DC) | ICC-MY / layer-1 rate (cpm)
+rabbit 1.17 | 1.00 | 0.300 | 1.61 | 49.8 (89%) | 21.1 | 0.424 (0.399) | 18.0 / 18.0
+rabbit 1.17 | 0.80 | 0.375 | 2.01 | 49.3 (88%) | 18.2 | 0.369 (0.347) | 18.1 / 18.1
+rabbit 1.17 | 0.67 | 0.450 | 2.41 | 48.8 (87%) | 15.7 | 0.323 (0.307) | 18.1 / 18.1
+rabbit 1.17 | 0.50 | 0.600 | 3.22 | 48.2 (86%) | 12.7 | 0.264 (0.249) | 18.2 / 18.1
+rabbit 1.17 | 0.40 | 0.750 | 4.02 | 47.9 (85%) | 11.1 | 0.231 (0.210) | 18.2 / 18.2
+rabbit 1.17 | 0.30 | 1.000 | 5.37 | 47.5 (84%) | 8.3 | 0.175 (0.166) | 18.2 / 18.2
+rabbit 1.17 | 0.20 | 1.500 | 8.05 | 47.0 (83%) | 5.9 | 0.126 (0.117) | 18.3 / 18.2
+rabbit 1.17 | 0.10 | 3.000 | 16.10 | 46.5 (83%) | 3.1 | 0.068 (0.062) | 18.4 / 18.2
+mouse 2.33 | 1.00 | 0.300 | 1.61 | 47.6 (84%) | 28.6 | 0.601 (0.570) | 18.2 / 18.1
+mouse 2.33 | 0.80 | 0.375 | 2.01 | 46.6 (83%) | 25.3 | 0.543 (0.514) | 18.3 / 18.3
+mouse 2.33 | 0.67 | 0.450 | 2.41 | 45.8 (81%) | 22.6 | 0.493 (0.469) | 18.3 / 18.3
+mouse 2.33 | 0.50 | 0.600 | 3.22 | 44.6 (79%) | 18.9 | 0.423 (0.398) | 18.4 / 18.4
+mouse 2.33 | 0.40 | 0.750 | 4.02 | 43.8 (78%) | 16.5 | 0.376 (0.346) | 18.5 / 18.5
+mouse 2.33 | 0.30 | 1.000 | 5.37 | 42.7 (76%) | 13.0 | 0.304 (0.284) | 18.6 / 18.6
+mouse 2.33 | 0.20 | 1.500 | 8.05 | 41.5 (74%) | 9.5 | 0.229 (0.209) | 18.7 / 18.6
+mouse 2.33 | 0.10 | 3.000 | 16.10 | 40.2 (71%) | 5.3 | 0.131 (0.117) | 18.8 / 18.9
+  rabbit: layer-1 amplitude reaches 75 % of intact at f = 0.67 (33% of ICC-MY lost)
+  rabbit: layer-1 amplitude reaches half of intact at f = 0.38 (62% of ICC-MY lost)
+  mouse: layer-1 amplitude reaches 75 % of intact at f = 0.62 (38% of ICC-MY lost)
+  mouse: layer-1 amplitude reaches half of intact at f = 0.34 (66% of ICC-MY lost)
+
+(2) transmural decay: event-aligned amplitude by layer (mV); passive DC ladder from layer 1 in parentheses
+L30_rabbit (g_c 1.17, m 0.3, L 30): L1 21.1 (21.1), L2 18.0 (17.7), L3 15.4 (14.8), L5 11.2 (10.3), L7 8.2 (7.2), L10 5.0 (4.2), L15 2.4 (1.7), L20 1.3 (0.7), L25 1.0 (0.3), L30 0.8 (0.2)
+   halves by layer 6; deepest layer 0.8 mV = 4% of layer 1; mean over layers 5.0 mV
+L30_mouse (g_c 2.33, m 0.3, L 30): L1 28.6 (28.6), L2 24.3 (23.9), L3 20.6 (20.0), L5 14.8 (14.0), L7 10.7 (9.8), L10 6.4 (5.7), L15 2.7 (2.4), L20 1.0 (1.0), L25 0.3 (0.4), L30 0.3 (0.3)
+   halves by layer 6; deepest layer 0.3 mV = 1% of layer 1; mean over layers 6.1 mV
+L7_rabbit (g_c 4.22, m 1.3, L 7): L1 16.4 (16.4), L2 14.5 (14.2), L3 13.1 (12.5), L5 11.1 (10.3), L7 10.2 (9.4)
+   halves by layer None; deepest layer 10.2 mV = 63% of layer 1; mean over layers 12.5 mV
+L7_mouse (g_c 8.26, m 1.3, L 7): L1 20.2 (20.2), L2 17.9 (17.6), L3 16.1 (15.5), L5 13.8 (12.7), L7 12.8 (11.6)
+   halves by layer None; deepest layer 12.8 mV = 63% of layer 1; mean over layers 15.5 mV

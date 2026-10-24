@@ -1,0 +1,51 @@
+1. column conductance G1 (m 1):
+   gSS 10: G1 3.17 nS, sqrt(gSS*0.96) 3.10 nS
+   gSS 30: G1 5.37 nS, sqrt(gSS*0.96) 5.37 nS
+   gSS 100: G1 8.71 nS, sqrt(gSS*0.96) 9.80 nS
+
+2. best protected SMC L1 amplitude (L1 criterion dropped) vs G_load
+   m  0.1 gSS  10: G_load   0.31 nS, best L1 60.3
+   m  0.1 gSS  30: G_load   0.54 nS, best L1 57.8
+   m  0.1 gSS 100: G_load   0.98 nS, best L1 55.5
+   m  0.3 gSS  10: G_load   0.93 nS, best L1 58.6
+   m  0.3 gSS  30: G_load   1.61 nS, best L1 49.9
+   m  0.3 gSS 100: G_load   2.94 nS, best L1 19.0
+   m    1 gSS  10: G_load   3.10 nS, best L1 17.0
+   m    1 gSS  30: G_load   5.37 nS, best L1 7.7
+   m    1 gSS 100: G_load   9.80 nS, best L1 4.2
+   m    3 gSS  10: G_load   9.30 nS, best L1 3.4
+   m    3 gSS  30: G_load  16.10 nS, best L1 3.1
+   m    3 gSS 100: G_load  29.39 nS, best L1 nan
+   m   10 gSS  10: G_load  30.98 nS, best L1 nan
+   m   10 gSS  30: G_load  53.67 nS, best L1 nan
+   m   10 gSS 100: G_load  97.98 nS, best L1 nan
+
+3. largest G_load with a window (and smallest without)
+   ICC >= 70%, rate +/-10%, L1 >= 15 mV: largest with window 3.10, smallest without 5.37 nS
+   ICC >= 70%, rate +/-10%, L1 >= 20 mV: largest with window 3.10, smallest without 5.37 nS
+   ICC >= 70%, rate +/-10%, L1 >= 25 mV: largest with window 2.94, smallest without 3.10 nS
+   ICC >= 70%, rate +/-15%, L1 >= 15 mV: largest with window 3.10, smallest without 5.37 nS
+   ICC >= 70%, rate +/-15%, L1 >= 20 mV: largest with window 3.10, smallest without 5.37 nS
+   ICC >= 70%, rate +/-15%, L1 >= 25 mV: largest with window 2.94, smallest without 3.10 nS
+   ICC >= 70%, rate +/-20%, L1 >= 15 mV: largest with window 3.10, smallest without 5.37 nS
+   ICC >= 70%, rate +/-20%, L1 >= 20 mV: largest with window 3.10, smallest without 5.37 nS
+   ICC >= 70%, rate +/-20%, L1 >= 25 mV: largest with window 2.94, smallest without 3.10 nS
+   ICC >= 80%, rate +/-10%, L1 >= 15 mV: largest with window 3.10, smallest without 5.37 nS
+   ICC >= 80%, rate +/-10%, L1 >= 20 mV: largest with window 1.61, smallest without 2.94 nS
+   ICC >= 80%, rate +/-10%, L1 >= 25 mV: largest with window 1.61, smallest without 2.94 nS
+   ICC >= 80%, rate +/-15%, L1 >= 15 mV: largest with window 3.10, smallest without 5.37 nS
+   ICC >= 80%, rate +/-15%, L1 >= 20 mV: largest with window 1.61, smallest without 2.94 nS
+   ICC >= 80%, rate +/-15%, L1 >= 25 mV: largest with window 1.61, smallest without 2.94 nS
+   ICC >= 80%, rate +/-20%, L1 >= 15 mV: largest with window 3.10, smallest without 5.37 nS
+   ICC >= 80%, rate +/-20%, L1 >= 20 mV: largest with window 1.61, smallest without 2.94 nS
+   ICC >= 80%, rate +/-20%, L1 >= 25 mV: largest with window 1.61, smallest without 2.94 nS
+   ICC >= 90%, rate +/-10%, L1 >= 15 mV: largest with window 0.98, smallest without 1.61 nS
+   ICC >= 90%, rate +/-10%, L1 >= 20 mV: largest with window 0.98, smallest without 1.61 nS
+   ICC >= 90%, rate +/-10%, L1 >= 25 mV: largest with window 0.98, smallest without 1.61 nS
+   ICC >= 90%, rate +/-15%, L1 >= 15 mV: largest with window 0.98, smallest without 1.61 nS
+   ICC >= 90%, rate +/-15%, L1 >= 20 mV: largest with window 0.98, smallest without 1.61 nS
+   ICC >= 90%, rate +/-15%, L1 >= 25 mV: largest with window 0.98, smallest without 1.61 nS
+   ICC >= 90%, rate +/-20%, L1 >= 15 mV: largest with window 0.98, smallest without 1.61 nS
+   ICC >= 90%, rate +/-20%, L1 >= 20 mV: largest with window 0.98, smallest without 1.61 nS
+   ICC >= 90%, rate +/-20%, L1 >= 25 mV: largest with window 0.98, smallest without 1.61 nS
+wrote paper_R1/fig/loadrule.png

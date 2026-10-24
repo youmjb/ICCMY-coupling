@@ -1,0 +1,6 @@
+model C (g_c 1.25): dV ICC -5.30 mV, layer 1 -2.13 mV -> own conductance 0.19 nS; passive transfer g_c/(g_c+g_own) 0.87
+    inward 5 pA: dV ICC +5.58 mV, layer 1 +1.62 mV -> own conductance 0.01 nS (depolarizing direction)
+model A (g_c 1.75): dV ICC -1.71 mV, layer 1 -0.76 mV -> own conductance 1.95 nS; passive transfer g_c/(g_c+g_own) 0.47
+    inward 5 pA: dV ICC +1.64 mV, layer 1 +0.90 mV -> own conductance 2.27 nS (depolarizing direction)
+model D (g_c 1.25): dV ICC -2.85 mV, layer 1 -1.06 mV -> own conductance 0.97 nS; passive transfer g_c/(g_c+g_own) 0.56
+    inward 5 pA: dV ICC +3.56 mV, layer 1 +0.68 mV -> own conductance 0.39 nS (depolarizing direction)

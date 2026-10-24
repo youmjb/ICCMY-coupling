@@ -1,0 +1,22 @@
+Fig3 Pinacidil: g_c 1.74; model dCSMC -10.3 dICC -4.1 CSMC x0.70 ICC x1.01 | recorded -10.3 -9.6 x0.22 x1.17
+Fig3 Phenylephrine: g_c 2.33; model dCSMC -2.4 dICC -1.1 CSMC x0.97 ICC x1.01 | recorded -2.4 -1.6 x1.07 x1.04
+Fig3 Apamin: g_c 2.33; model dCSMC +1.6 dICC +1.1 CSMC x1.01 ICC x0.99 | recorded +3.1 +3.3 x0.99 x0.96
+Fig3 4-AP: g_c 2.63; model dCSMC +3.1 dICC +1.6 CSMC x1.04 ICC x0.99 | recorded +3.1 +3.9 x1.22 x0.94
+Fig4 Youm 2019: control rest -72.8 amp 56.3 dV/dt 1.24 rate 17.2; at -11.4 mV: amp x1.08 dV/dt x0.88 rate x0.72
+Fig4 variant: control rest -72.6 amp 60.5 dV/dt 1.76 rate 17.9; at -10.6 mV: amp x1.18 dV/dt x1.48 rate x1.03
+Fig5 $g_c$ only g_c 1.75: control ratio 0.52, transfer 0.40, ICC x1.01, CSMC x0.70
+Fig5 $g_c$ only g_c 2.75: control ratio 0.63, transfer 0.51, ICC x0.99, CSMC x0.69
+Fig5 $g_c$ only g_c 4: control ratio 0.71, transfer 0.61, ICC x0.95, CSMC x0.68
+Fig5 $g_c$ only g_c 6: control ratio 0.79, transfer 0.68, ICC x0.90, CSMC x0.68
+Fig5 $g_c$ only g_c 8: control ratio 0.83, transfer 0.74, ICC x0.86, CSMC x0.67
+Fig5 + longitudinal muscle, $g_{cL}$ = $g_c$ g_c 1.75: control ratio 0.52, transfer 0.52, ICC x0.97, CSMC x0.70
+Fig5 + longitudinal muscle, $g_{cL}$ = $g_c$ g_c 2.75: control ratio 0.63, transfer 0.62, ICC x0.91, CSMC x0.68
+Fig5 + longitudinal muscle, $g_{cL}$ = $g_c$ g_c 4: control ratio 0.71, transfer 0.71, ICC x0.85, CSMC x0.64
+Fig5 + longitudinal muscle, $g_{cL}$ = 2 $g_c$ g_c 1.75: control ratio 0.52, transfer 0.56, ICC x0.93, CSMC x0.68
+Fig5 + longitudinal muscle, $g_{cL}$ = 2 $g_c$ g_c 2.75: control ratio 0.63, transfer 0.66, ICC x0.88, CSMC x0.66
+Fig5 + longitudinal muscle, $g_{cL}$ = 2 $g_c$ g_c 4: control ratio 0.71, transfer 0.71, ICC x0.82, CSMC x0.64
+Fig5 long transmural length constant g_c 1.75: control ratio 0.50, transfer 0.40, ICC x0.99, CSMC x0.53
+Fig5 long transmural length constant g_c 2.75: control ratio 0.61, transfer 0.50, ICC x0.95, CSMC x0.50
+Fig5 long transmural length constant g_c 4: control ratio 0.71, transfer 0.56, ICC x0.89, CSMC x0.48
+Fig5 active muscle g_c 1: control ratio 0.48, transfer 0.26, ICC x0.99, CSMC x0.32
+Fig5 active muscle g_c 1.5: control ratio 0.61, transfer 0.36, ICC x0.96, CSMC x0.30
