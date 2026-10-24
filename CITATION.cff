@@ -9,7 +9,15 @@ authors:
     given-names: Jae Boum
     affiliation: "Department of Physiology and Biophysics, Inje University College of Medicine, Busan, Korea"
     orcid: "https://orcid.org/0000-0002-7340-1118"
-# doi: add the Zenodo DOI after archiving
+doi: 10.5281/zenodo.23618403
+repository-code: "https://github.com/youmjb/ICCMY-coupling"
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.23618403
+    description: "Zenodo archive of release v1.0.0"
+  - type: doi
+    value: 10.5281/zenodo.23618402
+    description: "Zenodo concept DOI (all versions)"
 preferred-citation:
   type: article
   title: "Muscle resting changes reach the intestinal pacemaker more than a pacemaker-cell model predicts: a test against drug and input-resistance data"
