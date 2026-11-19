@@ -20,7 +20,7 @@ identifiers:
     description: "Zenodo concept DOI (all versions)"
 preferred-citation:
   type: article
-  title: "Muscle resting changes reach the intestinal pacemaker more than a pacemaker-cell model predicts: a computer simulation tested against drug and input-resistance data"
+  title: "Why interstitial cells of Cajal follow the resting potential of intestinal smooth muscle: an in silico study"
   authors:
     - family-names: Youm
       given-names: Jae Boum
